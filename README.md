@@ -103,3 +103,6 @@ Suppose you run the code, and it returns the following output:
 Each line corresponds to a book, displaying its title, price, and rating.
 
 This code provides basic functionality for scraping and displaying book information from the website,
+=======
+# HTMLParser
+
